@@ -24,3 +24,6 @@ Download the [Sandwich Club app starter code.](https://github.com/udacity/sandwi
 Design the layout for the detail activity so the different elements
 display in a sensible way. Implement the JSON parsing in JsonUtils so it
 produces a Sandwich Object that can be used to populate the UI that you designed.
+
+## My output
+![sandwitch-club](https://user-images.githubusercontent.com/7014697/45268421-ca48d200-b430-11e8-9a49-af89a2cc1ad5.PNG)
